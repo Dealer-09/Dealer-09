@@ -1,12 +1,12 @@
 ![Dealer-09-github-header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-## I am a First Year student studying B.Tech in ME, having a keen interest in Making Web & Android Apps .
+## I am Archisman Pal From First Year pursuing B.Tech in ME, having a keen interest in Making Web & Android Apps .
 
+- 🤝 I'm open to collaborating on all types of Open Source Projects
+- 😄 Pronouns: ...He/Him
+- 🌱 I’m currently learning ... Backend Web Dev
 - 🌍 I'm based in West Bengal, India
 - ✉️ You can contact me at [archismankumar@gmail.com](mailto:archismankumar@gmail.com)
-- 🌱 I’m currently learning ... Backend Web Dev
-- 🤝 I'm open to collaborating on all types of Open Source Projects
-- - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I am a Mechanical Engineer 
 
 ## 💻 Tech Stack
