@@ -45,6 +45,11 @@
 </p>
 <br/>
 
+## 📈 Profile Statistics
+
+<a href="https://github.com/Dealer-09"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=Dealer-09p&color=red&style=for-the-badge"></a>
+<br/>
+
 
 <!---
 Dealer-09/Dealer-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
