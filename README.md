@@ -31,16 +31,16 @@
 ## 🔗 Connect with me
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/archisman-pal-32554632" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsyourap" height="30" width="40" /></a>&ensp;
-   <a href="https://www.instagram.com/archis__0909" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsyourap_" height="30" width="40" /></a>&ensp;
+   <a href="https://www.linkedin.com/in/archisman-pal-32554632" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dealer-09" height="30" width="40" /></a>&ensp;
+   <a href="https://www.instagram.com/archis__0909" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dealer-09" height="30" width="40"/></a>&ensp;
    <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
 <br/>
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="itsyourap's GitHub stats" /></a>
-   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dealer-09&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px" /></a>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="Dealer-09's GitHub stats" /></a>
+   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dealer-09&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px"/></a>
    <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
 </p>
 <br/>
