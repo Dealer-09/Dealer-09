@@ -48,6 +48,12 @@
 </p>
 <br/>
 
+## Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height="50px" width = "50px">
+  
+<p align="center">
+  <img src="https://github.com/Dealer-09/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
+</p>
+
 ## 📈 Profile Statistics
 
 <a href="https://github.com/Dealer-09"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=Dealer-09p&color=red&style=for-the-badge"></a>
