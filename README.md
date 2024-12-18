@@ -42,7 +42,7 @@
 <p align="center">
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="Dealer-09's GitHub stats" /></a>
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dealer-09&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&theme=dark&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="Dealer-09's GitHub stats" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&theme=dark&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="Top Languages Used" /></a>
   
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
 </p>
