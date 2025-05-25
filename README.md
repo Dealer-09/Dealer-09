@@ -63,7 +63,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dealer-09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dealer-09&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
