@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Archisman Pal</h1>
 <h3 align="center">A First-Year B.Tech Mechanical Engineering student with a passion for Web and Android App Development</h3>
+> “Engineering the future — one line of code and one bolt at a time.”
 
 ---
 
@@ -79,7 +80,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=react-dark&hide_border=true&radius=16&area=true" />
 </p>
 
 ---
