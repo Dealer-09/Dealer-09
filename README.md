@@ -3,8 +3,9 @@
 <h1 align="center">Hi there 👋, I'm Archisman Pal</h1>
 <h3 align="center">A First-Year B.Tech Mechanical Engineering student with a passion for Web and Android App Development</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+Engineering the future.;one line of code and+%7C+Web+%26+one bolt at a time.;Code.+Build.+Tinker.+Repeat." alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%20%F0%9F%91%8B%2C%20Engineering%20the%20future.;one%20line%20of%20code%20and%20%7C%20Web%20%26%20one%20bolt%20at%20a%20time.;Code.%20Build.%20Tinker.%20Repeat." alt="Typing SVG">
 </p>
+
  
 
 
