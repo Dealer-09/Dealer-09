@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Archisman Pal</h1>
 <h3 align="center">A First-Year B.Tech Mechanical Engineering student with a passion for Web and Android App Development</h3>
-> “Engineering the future — one line of code and one bolt at a time.”
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+Engineering the future.;one line of code and+%7C+Web+%26+one bolt at a time.;Code.+Build.+Tinker.+Repeat." alt="Typing SVG">
+</p>
+ 
+
 
 ---
 
@@ -92,6 +96,13 @@
 </p>
 
 ---
+
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dealer-09&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
 
 ## 🔢 Profile View Counter
 
