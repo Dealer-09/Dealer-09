@@ -8,23 +8,27 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="45%">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdmNmRzZjh6Ym1pbWt0N2phZGZuZ3QxYmxvamo3OXVyYWl3ZmlvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" alt="Banner" width="100%" />
-    </td>
-    <td width="55%" valign="top">
-      <h2>🔧 What I Do</h2>
-      <ul>
-        <li>🔩 <strong>RC bots & embedded systems</strong> (ESP32, ESCs, 6S LiPo, PID loops)</li>
-        <li>🌐 <strong>Web platforms</strong> (React, Next.js, Node.js, Firebase, MongoDB)</li>
-        <li>🧠 <strong>AI/ML & chatbots</strong> (TensorFlow.js, Gemini API)</li>
-        <li>🧰 <strong>Mechanical/CAD design</strong> (FreeCAD + PySide2, SolidWorks)</li>
-        <li>🌐 <strong>Web3 nerd</strong> (Solidity, IPFS, NFT marketplaces)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h2 align="center">🔧 What I Do</h2>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="45%" align="center" valign="top">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdmNmRzZjh6Ym1pbWt0N2phZGZuZ3QxYmxvamo3OXVyYWl3ZmlvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" width="100%" alt="GIF"/>
+      </td>
+      <td width="55%" align="left" valign="top">
+        <ul>
+          <li>🔩 <strong>RC bots & embedded systems</strong> (ESP32, ESCs, 6S LiPo, PID loops)</li>
+          <li>🌐 <strong>Web platforms</strong> (React, Next.js, Node.js, Firebase, MongoDB)</li>
+          <li>🧠 <strong>AI/ML & chatbots</strong> (TensorFlow.js, Gemini API)</li>
+          <li>🧰 <strong>Mechanical/CAD design</strong> (FreeCAD + PySide2, SolidWorks)</li>
+          <li>🌐 <strong>Web3 nerd</strong> (Solidity, IPFS, NFT marketplaces)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ---
