@@ -1,4 +1,9 @@
-![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAyampzYWFjemEwdGRmbGJudmNodTJrNzVwMHRyNndqZTEzNW4zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAyampzYWFjemEwdGRmbGJudmNodTJrNzVwMHRyNndqZTEzNW4zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" 
+       alt="Banner" 
+       width="700" 
+       height="350" />
+</div>
 
 <h1 align="center">Yo, I’m Archisman Pal 👋</h1>
 <h3 align="center">Engineer | Developer | Builder — Code, Circuits, CAD</h3>
