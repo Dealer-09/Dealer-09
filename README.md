@@ -17,8 +17,8 @@
 <h2>🔧 What I Do</h2>
 
 <div align="center">
-  <span style="display: inline-block; vertical-align: top; width: 300px;">
-    <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="100%" alt="Robot arm animation"/>
+  <span style="display: inline-block; vertical-align: top;">
+    <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation"/>
   </span>
   <span style="display: inline-block; vertical-align: top; text-align: left; margin-left: 20px;">
     <ul>
