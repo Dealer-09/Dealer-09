@@ -14,24 +14,22 @@
 
 ---
 
-<h2 align="center">🔧 What I Do</h2>
+<h2>🔧 What I Do</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdmNmRzZjh6Ym1pbWt0N2phZGZuZ3QxYmxvamo3OXVyYWl3ZmlvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" width="250px" alt="GIF">
-    </td>
-    <td align="left">
-      <ul>
-        <li>🔩 <strong>RC bots & embedded systems</strong> (ESP32, ESCs, 6S LiPo, PID loops)</li>
-        <li>🌐 <strong>Web platforms</strong> (React, Next.js, Node.js, Firebase, MongoDB)</li>
-        <li>🧠 <strong>AI/ML & chatbots</strong> (TensorFlow.js, Gemini API)</li>
-        <li>🧰 <strong>Mechanical/CAD design</strong> (FreeCAD + PySide2, SolidWorks)</li>
-        <li>🌐 <strong>Web3 nerd</strong> (Solidity, IPFS, NFT marketplaces)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <span style="display: inline-block; vertical-align: top; width: 300px;">
+    <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="100%" alt="Robot arm animation"/>
+  </span>
+  <span style="display: inline-block; vertical-align: top; text-align: left; margin-left: 20px;">
+    <ul>
+      <li>🔩 <strong>RC bots & embedded systems</strong> (ESP32, ESCs, 6S LiPo, PID loops)</li>
+      <li>🌐 <strong>Web platforms</strong> (React, Next.js, Node.js, Firebase, MongoDB)</li>
+      <li>🧠 <strong>AI/ML & chatbots</strong> (TensorFlow.js, Gemini API)</li>
+      <li>🧰 <strong>Mechanical/CAD design</strong> (FreeCAD + PySide2, SolidWorks)</li>
+      <li>🌐 <strong>Web3 nerd</strong> (Solidity, IPFS, NFT marketplaces)</li>
+    </ul>
+  </span>
+</div>
 
 ---
 
