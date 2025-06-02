@@ -37,11 +37,22 @@
 
 ## 🚀 Highlight Reels
 
-- 🥇 **CodeFlow 2K25 Hackathon Winner**  
-- 🤖 **2nd Place – Robo Sumo (TechFiesta 2025)**  
-- 📘 **Co-authored AIMS 2.0 Handbook**  
-- 🌐 **ChainTorque Ideathon Presenter – Apertre 2.0**  
-- 🔗 **Over 15 projects** blending hardware, software, and AI
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="250" alt="Robot arm animation"/>
+    </td>
+    <td valign="top" style="padding-left: 20px; text-align: left;">
+      <ul>
+        <li>🥇 **CodeFlow 2K25 Hackathon Winner** </li>
+        <li>🤖 **2nd Place – Robo Soccer (TechFiesta 2025)** </li>
+        <li>🧠 **ChainTorque Ideathon Presenter – Apertre 2.0**  </li>
+        <li>🌐 **Over 15 projects** blending hardware, software, and AI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
