@@ -1,47 +1,55 @@
 ![Dealer-09 GitHub Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi there 👋, I'm Archisman Pal</h1>
-<h3 align="center">A First-Year B.Tech Mechanical Engineering student with a passion for Web and Android App Development</h3>
+<h3 align="center">B.Tech Mechanical Engineering student building across Web, Embedded, CAD, and AI domains</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Engineering+the+future+%E2%80%94+one+line+of+code+and+one+bolt+at+a+time." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Engineering+the+future+with+code,+circuits,+and+CAD." alt="Typing SVG">
 </p>
-
- 
-
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently pursuing **B.Tech in Mechanical Engineering**
-- 💻 Exploring the world of **Backend Web Development**
-- 📱 Passionate about building **Web and Android apps**
-- 🤝 Open to collaborating on **Open Source Projects**
-- 📍 Based in **West Bengal, India**
-- 📫 Reach me at: [archismankumar@gmail.com](mailto:archismankumar@gmail.com)
-- ⚡ Fun fact: Even though I’m a Mechanical Engineer, you’ll find me deep in code!
+- 🎓 B.Tech in Mechanical Engineering (Academy of Technology, 2024–28)  
+- 💻 Full-stack developer (Next.js, Node.js, Firebase, MongoDB)  
+- 🤖 Robotics & embedded engineer (ESP32, PID bots, 6S LiPo, ESCs)  
+- 🌐 Web3 enthusiast (Solidity, IPFS, NFT-backed 3D model marketplaces)  
+- 📍 Based in **West Bengal, India**  
+- 📫 Reach me at: [archismankumar@gmail.com](mailto:archismankumar@gmail.com)  
+- ⚡ Fun fact: I design robots, build web apps, and sketch hypercars all in the same week.  
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="left">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/></a>
-  <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
-  <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
   <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>
   <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a>
-  <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
+  <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/></a>
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
-  <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/></a>
-  <a href="https://www.arduino.cc"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino"/></a>
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind CSS"/></a>
   <a href="https://firebase.google.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase"/></a>
+  <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
+  <a href="https://www.arduino.cc"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino"/></a>
+  <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/></a>
+  <a href="https://soliditylang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="36" height="36" alt="Solidity"/></a>
 </p>
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Winner – CodeFlow 2K25 Hackathon  
+- 🥈 2nd Place – Robo Sumo (TechFiesta 2025)  
+- 🚀 Presented **ChainTorque** at Apertre 2.0 Web3 Ideathon  
+- 📘 Co-authored the **AIMS 2.0 Technical Handbook**  
+- 🛠️ Over 15 GitHub projects spanning web, robotics, AI & CAD
 
 ---
 
@@ -79,7 +87,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="Top Languages"/>
 </p>
 
-
 ---
 
 ## 📈 Contribution Graph
@@ -97,13 +104,6 @@
 </p>
 
 ---
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dealer-09&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
 
 ## 🔢 Profile View Counter
 
