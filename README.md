@@ -125,10 +125,10 @@ FreeCAD + PySide2 GUI to dynamically create involute spur gears with real-time 3
 
 ---
 
-<h2>🐍 Snake Eating Contribution Graph</h2>
+## 🐍 Snake Eating Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dealer-09/Dealer-09/output/github-contribution-grid-snake.svg" alt="Snake contribution animation">
+  <img src="https://github.com/Dealer-09/Dealer-09/blob/main/github-user-contribution.svg" alt="Snake animation">
 </p>
 
 ---
