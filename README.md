@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">🔧 What I Do</h2>
+<h2>🔧 What I Do</h2>
 
 <div align="center">
   <table style="border: none;">
