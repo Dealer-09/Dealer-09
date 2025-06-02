@@ -76,13 +76,43 @@ FreeCAD + PySide2 GUI to dynamically create involute spur gears with real-time 3
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&hide_border=true&theme=react&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=Dealer-09&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dealer-09&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="Top Languages"/>
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=react-dark&hide_border=true&radius=16&area=true" />
+</p>
+
+---
+
+## 🐍 Snake Eating Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Dealer-09/Dealer-09/blob/main/github-user-contribution.svg" alt="Snake animation">
+</p>
+
+---
+
+## 🔢 Profile View Counter
+
+<p align="left">
+  <a href="https://github.com/Dealer-09">
+    <img src="https://komarev.com/ghpvc/?username=Dealer-09&style=for-the-badge&color=red" alt="Profile Views" height="30"/>
+  </a>
+</p>
 <p align="center"><i>“Build like an engineer. Ship like a hacker. Think like a visionary.”</i></p>
