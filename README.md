@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Banner]((https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdmNmRzZjh6Ym1pbWt0N2phZGZuZ3QxYmxvamo3OXVyYWl3ZmlvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif))
 
 <h1 align="center">Yo, I’m Archisman Pal 👋</h1>
 <h3 align="center">Engineer | Developer | Builder — Code, Circuits, CAD</h3>
