@@ -17,10 +17,10 @@
 <h2>🔧 What I Do</h2>
 
 <div align="center">
-  <span style="display: inline-block; vertical-align: top;">
+  <div style="float: left; width: 260px;">
     <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation"/>
-  </span>
-  <span style="display: inline-block; vertical-align: top; text-align: left; margin-left: 20px;">
+  </div>
+  <div style="margin-left: 280px; text-align: left;">
     <ul>
       <li>🔩 <strong>RC bots & embedded systems</strong> (ESP32, ESCs, 6S LiPo, PID loops)</li>
       <li>🌐 <strong>Web platforms</strong> (React, Next.js, Node.js, Firebase, MongoDB)</li>
@@ -28,7 +28,7 @@
       <li>🧰 <strong>Mechanical/CAD design</strong> (FreeCAD + PySide2, SolidWorks)</li>
       <li>🌐 <strong>Web3 nerd</strong> (Solidity, IPFS, NFT marketplaces)</li>
     </ul>
-  </span>
+  </div>
 </div>
 
 ---
