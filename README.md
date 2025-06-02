@@ -1,4 +1,3 @@
-![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdmNmRzZjh6Ym1pbWt0N2phZGZuZ3QxYmxvamo3OXVyYWl3ZmlvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif)
 
 <h1 align="center">Yo, I’m Archisman Pal 👋</h1>
 <h3 align="center">Engineer | Developer | Builder — Code, Circuits, CAD</h3>
@@ -10,6 +9,8 @@
 ---
 
 ## 🔧 What I Do
+
+![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdmNmRzZjh6Ym1pbWt0N2phZGZuZ3QxYmxvamo3OXVyYWl3ZmlvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif)
 
 - 🔩 **RC bots & embedded systems** (ESP32, ESCs, 6S LiPo, PID loops)  
 - 🌐 **Web platforms** (React, Next.js, Node.js, Firebase, MongoDB)  
