@@ -13,40 +13,26 @@
 
 ---
 
-<h2>🔧 What I Do</h2>
+## 🔧 What I Do
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
-  <div style="flex: 1 1 250px; max-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation showing automation" style="max-width: 100%; height: auto;" />
-  </div>
-  <div style="flex: 2 1 400px; text-align: left; min-width: 280px;">
-    <ul>
-      <li><strong>🔩 RC bots & embedded systems</strong> (ESP32, ESCs, 6S LiPo, PID loops)</li>
-      <li><strong>🌐 Web platforms</strong> (React, Next.js, Node.js, Firebase, MongoDB)</li>
-      <li><strong>🧠 AI/ML & chatbots</strong> (TensorFlow.js, Gemini API)</li>
-      <li><strong>🧰 Mechanical/CAD design</strong> (FreeCAD + PySide2, SolidWorks)</li>
-      <li><strong>🌐 Web3 nerd</strong> (Solidity, IPFS, NFT marketplaces)</li>
-    </ul>
-  </div>
-</div>
+<img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation" />
+
+- 🔩 **RC bots & embedded systems** (ESP32, ESCs, 6S LiPo, PID loops)  
+- 🌐 **Web platforms** (React, Next.js, Node.js, Firebase, MongoDB)  
+- 🧠 **AI/ML & chatbots** (TensorFlow.js, Gemini API)  
+- 🧰 **Mechanical/CAD design** (FreeCAD + PySide2, SolidWorks)  
+- 🌐 **Web3 nerd** (Solidity, IPFS, NFT marketplaces)
 
 ---
 
-<h2>🚀 Highlight Reels</h2>
+## 🚀 Highlight Reels
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
-  <div style="flex: 1 1 250px; max-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="250" alt="Robot celebration animation" style="max-width: 100%; height: auto;" />
-  </div>
-  <div style="flex: 2 1 400px; text-align: left; min-width: 280px;">
-    <ul>
-      <li><strong>🥇 CodeFlow 2K25 Hackathon Winner</strong></li>
-      <li><strong>🤖 2nd Place – Robo Soccer (TechFiesta 2025)</strong></li>
-      <li><strong>🧠 ChainTorque Ideathon Presenter – Apertre 2.0</strong></li>
-      <li><strong>🌐 Over 15 projects</strong> blending hardware, software, and AI</li>
-    </ul>
-  </div>
-</div>
+<img src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="300" alt="Robot celebration animation" />
+
+- 🥇 **CodeFlow 2K25 Hackathon Winner**  
+- 🤖 **2nd Place – Robo Soccer (TechFiesta 2025)**  
+- 🧠 **ChainTorque Ideathon Presenter – Apertre 2.0**  
+- 🌐 **Over 15 projects** blending hardware, software, and AI
 
 ---
 
