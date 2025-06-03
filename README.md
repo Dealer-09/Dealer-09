@@ -117,14 +117,20 @@ RBAC academic platform with *PDF access flow, JWT auth, hCaptcha, Firestore, Gri
 
 ---
 
-## 🔢 Profile View Counter
+## 🏆 Achievements
 
-<p align="left">
-  <a href="https://github.com/Dealer-09">
-    <img src="https://komarev.com/ghpvc/?username=Dealer-09&style=for-the-badge&color=red" alt="Profile Views" height="30"/>
-  </a>
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=Dealer-09&theme=onedark&no-frame=true&no-bg=true&margin-w=15&exclude=PullRequestReviewer" />  
 </p>
 
 ---
 
-> “Build like an engineer. Ship like a hacker. Think like a visionary.”
+## 🔢 Profile View Counter
+
+<p align="left">  
+  <a href="https://github.com/Dealer-09">  
+    <img src="https://komarev.com/ghpvc/?username=Dealer-09&style=for-the-badge&color=red" alt="Profile Views" height="30"/>  
+  </a>  
+</p>
+
+---
