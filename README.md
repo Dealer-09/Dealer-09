@@ -1,10 +1,9 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAyampzYWFjemEwdGRmbGJudmNodTJrNzVwMHRyNndqZTEzNW4zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" 
-       alt="Banner animation of robotic and tech visuals" 
-       style="max-width: 100%; height: auto;" />
+       alt="Banner animation of robotic and tech visuals" style="max-width: 100%; height: auto;" />
 </div>
 
-<h1 align="center">Yo, I’m Archisman Pal 👋</h1>
+<h1 align="center">Hey, I'm Archisman Pal 👋</h1>
 <h3 align="center">Engineer | Developer | Builder — Code, Circuits, CAD</h3>
 
 <p align="center">
@@ -17,11 +16,11 @@
 
 <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation" />
 
-- 🔩 **RC bots & embedded systems** (ESP32, ESCs, 6S LiPo, PID loops)  
-- 🌐 **Web platforms** (React, Next.js, Node.js, Firebase, MongoDB)  
-- 🧠 **AI/ML & chatbots** (TensorFlow.js, Gemini API)  
-- 🧰 **Mechanical/CAD design** (FreeCAD + PySide2, SolidWorks)  
-- 🌐 **Web3 nerd** (Solidity, IPFS, NFT marketplaces)
+- 🔩 **RC bots & embedded systems** — ESP32, ESCs, PID loops  
+- 🌐 **Web platforms** — React, Next.js, Node.js, Firebase, MongoDB  
+- 🧠 **AI/ML & chatbots** — TensorFlow.js, Gemini API  
+- 🧰 **Mechanical/CAD design** — FreeCAD + PySide2, SolidWorks  
+- 🌐 **Web3 nerd** — Solidity, IPFS, NFT marketplaces
 
 ---
 
@@ -36,26 +35,26 @@
 
 ---
 
-<h2>🧠 Notable Builds</h2>
+## 🧠 Notable Builds
 
 ### ⚙️ RC CAR_v1  
-ESP-powered sumo bot w/ modular weights, IR sensors, LiPo drive, and PID logic.
+ESP-powered sumo bot with modular weights, IR sensors, LiPo drive, and PID logic.
 
 ### 🌾 Pragati Path  
-AI crop advisor with image disease detection (TensorFlow.js) + multilingual chatbot (Gemini).
+AI crop advisor with *image disease detection (TensorFlow.js)* and *multilingual chatbot (Gemini API)*.
 
 ### 💥 Código / CodeBattle  
-Live 1v1 code duel platform — Socket.IO, Redis leaderboard, AI hints.
+Live 1v1 code duel platform — *Socket.IO, Redis leaderboard, AI hints*.
 
 ### 🔐 AIMS 2.0  
-RBAC academic platform w/ PDF access flow, JWT auth, hCaptcha + Firestore + GridFS.
+RBAC academic platform with *PDF access flow, JWT auth, hCaptcha, Firestore, GridFS*.
 
 ### 🧮 Spur Gear Generator  
-FreeCAD + PySide2 GUI to dynamically create involute spur gears with real-time 3D updates.
+*FreeCAD + PySide2 GUI* to dynamically create involute spur gears with real-time 3D updates.
 
 ---
 
-<h2>🛠 Tech Toolbox</h2>
+## 🛠 Tech Toolbox
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -64,15 +63,18 @@ FreeCAD + PySide2 GUI to dynamically create involute spur gears with real-time 3
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![FreeCAD](https://img.shields.io/badge/FreeCAD-1D2D69?logo=freecad&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E02127?logo=solidworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 
 ---
 
-<h2>🔗 Let’s Connect</h2>
+## 🔗 Let’s Connect
 
 <p align="center">
   <a href="mailto:archismankumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -83,26 +85,26 @@ FreeCAD + PySide2 GUI to dynamically create involute spur gears with real-time 3
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dealer-09&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="GitHub Stats showing total contributions, stars, and repos"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dealer-09&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Dealer-09&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495" alt="GitHub Streak showing daily commit streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="Top Languages used in repositories"/>
 </p>
 
 ---
 
-<h2>📈 Contribution Graph</h2>
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=react-dark&hide_border=true&radius=16&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=react-dark&hide_border=true&radius=16&area=true" alt="GitHub contribution activity graph showing commit trends"/>
 </p>
 
 ---
@@ -110,12 +112,12 @@ FreeCAD + PySide2 GUI to dynamically create involute spur gears with real-time 3
 ## 🐍 Snake Eating Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Dealer-09/Dealer-09/blob/main/github-user-contribution.svg" alt="Snake animation">
+  <img src="https://github.com/Dealer-09/Dealer-09/blob/main/github-user-contribution.svg" alt="Snake animation eating GitHub contributions"/>
 </p>
 
 ---
 
-<h2>🔢 Profile View Counter</h2>
+## 🔢 Profile View Counter
 
 <p align="left">
   <a href="https://github.com/Dealer-09">
@@ -123,4 +125,6 @@ FreeCAD + PySide2 GUI to dynamically create involute spur gears with real-time 3
   </a>
 </p>
 
-<p align="center"><i>“Build like an engineer. Ship like a hacker. Think like a visionary.”</i></p>
+---
+
+> “Build like an engineer. Ship like a hacker. Think like a visionary.”
