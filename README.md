@@ -13,16 +13,16 @@
 
 ## 🔧 What I Do
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation" />
 </p>
-
+<p align="right">
 - 🔩 **RC bots & embedded systems** — ESP32, ESCs, PID loops  
 - 🌐 **Web platforms** — React, Next.js, Node.js, Firebase, MongoDB  
 - 🧠 **AI/ML & chatbots** — TensorFlow.js, Gemini API  
 - 🧰 **Mechanical/CAD design** — FreeCAD + PySide2, SolidWorks  
 - 🌐 **Web3 nerd** — Solidity, IPFS, NFT marketplaces
-
+</p>
 ---
 
 ## 🚀 Highlight Reels
