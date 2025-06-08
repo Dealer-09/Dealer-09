@@ -32,10 +32,15 @@
 
 <img align="right" src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="250" alt="Robot celebration animation">
 
+
+
 - 🥇 **CodeFlow 2K25 Hackathon Winner**  
 - 🤖 **2nd Place – Robo Soccer (TechFiesta 2025)**  
 - 🧠 **ChainTorque Ideathon Presenter – Apertre 2.0**  
 - 🌐 **Built 15+ projects** blending hardware, software, and AI
+
+
+
 
 ---
 
