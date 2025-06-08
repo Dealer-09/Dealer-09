@@ -14,7 +14,7 @@
 ## 🔧 What I Do
 
 <!-- Image floats right -->
-<img align="right" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation">
+<img align="right" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation showing automation">
 
 <ul>
   <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
@@ -30,9 +30,7 @@
 
 ## 🚀 Highlight Reels
 
-<p align="left">
-  <img src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="300" alt="Robot celebration animation" />
-</p>
+<img align="right" src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="250" alt="Robot celebration animation">
 
 - 🥇 **CodeFlow 2K25 Hackathon Winner**  
 - 🤖 **2nd Place – Robo Soccer (TechFiesta 2025)**  
