@@ -23,20 +23,20 @@
   <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
   <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
 </ul>
-<br>
 
 ---
 
 ## 🚀 Highlight Reels
 
 <img align="right" src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="250" alt="Robot celebration animation">
-
-
-- 🥇 **CodeFlow 2K25 Hackathon Winner**  
-- 🤖 **2nd Place – Robo Soccer (TechFiesta 2025)**  
-- 🧠 **ChainTorque Ideathon Presenter – Apertre 2.0**  
-- 🌐 **Built 15+ projects** blending hardware, software, and AI
-<br><br>
+<br>
+<ul>
+  <li>🥇 <strong>CodeFlow 2K25 Hackathon Winner</strong></li>
+  <li>🤖 <strong>2nd Place – Robo Soccer (TechFiesta 2025)</strong></li>
+  <li>🧠 <strong>ChainTorque Ideathon Presenter</strong> — Apertre 2.0</li>
+  <li>🌐 <strong>Built 15+ projects</strong> blending hardware, software, and AI</li>
+</ul>
+<br>
 
 ---
 
