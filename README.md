@@ -13,16 +13,23 @@
 
 ## 🔧 What I Do
 
-<p align="left">
-  <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation" />
-</p>
-<p align="right">
-- 🔩 **RC bots & embedded systems** — ESP32, ESCs, PID loops  
-- 🌐 **Web platforms** — React, Next.js, Node.js, Firebase, MongoDB  
-- 🧠 **AI/ML & chatbots** — TensorFlow.js, Gemini API  
-- 🧰 **Mechanical/CAD design** — FreeCAD + PySide2, SolidWorks  
-- 🌐 **Web3 nerd** — Solidity, IPFS, NFT marketplaces
-</p>
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="100%" alt="Robot arm animation showing automation" />
+    </td>
+    <td>
+      <ul>
+        <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
+        <li>🌐 <strong>Web platforms</strong> — React, Next.js, Node.js, Firebase, MongoDB</li>
+        <li>🧠 <strong>AI/ML & chatbots</strong> — TensorFlow.js, Gemini API</li>
+        <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
+        <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Highlight Reels
