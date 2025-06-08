@@ -14,7 +14,7 @@
 ## 🔧 What I Do
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation showing automation"/>
+  <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation"/>
 
   <div>
     <ul>
@@ -31,7 +31,7 @@
 
 ## 🚀 Highlight Reels
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="300" alt="Robot celebration animation" />
 </p>
 
