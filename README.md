@@ -15,7 +15,7 @@
 
 <!-- Image floats right -->
 <img align="right" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation showing automation">
-
+<br>
 <ul>
   <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
   <li>🌐 <strong>Web platforms</strong> — React, Next.js, Node.js, Firebase, MongoDB</li>
@@ -23,7 +23,7 @@
   <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
   <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
 </ul>
-<br><br>
+<br>
 
 ---
 
@@ -32,14 +32,12 @@
 <img align="right" src="https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif" width="250" alt="Robot celebration animation">
 
 
-
+<br>
 - 🥇 **CodeFlow 2K25 Hackathon Winner**  
 - 🤖 **2nd Place – Robo Soccer (TechFiesta 2025)**  
 - 🧠 **ChainTorque Ideathon Presenter – Apertre 2.0**  
 - 🌐 **Built 15+ projects** blending hardware, software, and AI
-
-
-
+<br><br>
 
 ---
 
