@@ -13,19 +13,16 @@
 
 ## 🔧 What I Do
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation"/>
+<!-- Image floats right -->
+<img align="right" alt="Coding GIF" width="250" src="https://i.pinimg.com/originals/a0/fa/78/a0fa7887fde9ff467e1d038fba6605a9.gif">
 
-  <div>
-    <ul>
-      <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
-      <li>🌐 <strong>Web platforms</strong> — React, Next.js, Node.js, Firebase, MongoDB</li>
-      <li>🧠 <strong>AI/ML & chatbots</strong> — TensorFlow.js, Gemini API</li>
-      <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
-      <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
-    </ul>
-  </div>
-</div>
+<ul>
+  <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
+  <li>🌐 <strong>Web platforms</strong> — React, Next.js, Node.js, Firebase, MongoDB</li>
+  <li>🧠 <strong>AI/ML & chatbots</strong> — TensorFlow.js, Gemini API</li>
+  <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
+  <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
+</ul>
 
 ---
 
