@@ -23,8 +23,7 @@
   <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
   <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
 </ul>
-
-
+<br><br>
 
 ---
 
