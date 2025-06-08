@@ -24,6 +24,8 @@
   <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
 </ul>
 
+
+
 ---
 
 ## 🚀 Highlight Reels
