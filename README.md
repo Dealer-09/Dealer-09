@@ -14,7 +14,7 @@
 ## 🔧 What I Do
 
 <!-- Image floats right -->
-<img align="right" alt="Coding GIF" width="250" src="https://i.pinimg.com/originals/a0/fa/78/a0fa7887fde9ff467e1d038fba6605a9.gif">
+<img align="right" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="300" alt="Robot arm animation showing automation">
 
 <ul>
   <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
