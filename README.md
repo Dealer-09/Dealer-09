@@ -15,7 +15,6 @@
 
 <!-- Image floats right -->
 <img align="right" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation showing automation">
-<br>
 <ul>
   <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
   <li>🌐 <strong>Web platforms</strong> — React, Next.js, Node.js, Firebase, MongoDB</li>
