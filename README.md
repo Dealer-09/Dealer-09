@@ -126,7 +126,7 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=16&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true&radius=16&height=300" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 
 ## 🏆 Achievements
 
-<p align="center">
+<p align="center">Add commentMore actions
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true&radius=16&height=300" alt="Contribution Activity Graph" />
 </p>
 
