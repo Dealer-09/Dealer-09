@@ -126,7 +126,7 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=react-dark&hide_border=true&radius=16&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dealer-09&theme=react-dark&hide_border=true&radius=16&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Activity Graph" />
 </p>
 
 ---
