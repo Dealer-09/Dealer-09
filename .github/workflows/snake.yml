@@ -2,7 +2,7 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day at midnight
+    - cron: "0 0 * * *"  # runs every night
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#40a2ff
             dist/github-snake-dark.svg?color_snake=#40a2ff&color_dots=#0d1117,#161b22,#010409
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
