@@ -133,9 +133,15 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 
 ## 🐍 Snake Eating Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/Dealer-09/Dealer-09/blob/main/github-user-contribution.svg" alt="Snake Animation Eating Contributions" />
-</p>
+<div align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dealer-09/Dealer-09/blob/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dealer-09/Dealer-09/blob/output/github-snake.svg" />
+      <img width="804px" alt="github-snake" src="https://github.com/Dealer-09/Dealer-09/blob/output/github-snake-dark.svg" />
+    </picture>
+  </a>
+</div>
 
 ---
 
