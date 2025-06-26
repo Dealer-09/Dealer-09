@@ -8,6 +8,8 @@ on:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -22,7 +24,7 @@ jobs:
             dist/github-snake-dark.svg?color_snake=#40a2ff&color_dots=#0d1117,#161b22,#010409
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
