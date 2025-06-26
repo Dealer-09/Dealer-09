@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAyampzYWFjemEwdGRmbGJudmNodTJrNzVwMHRyNndqZTEzNW4zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="Banner animation of robotic and tech visuals" style="width:100%; max-width:700px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAyampzYWFjemEwdGRmbGJudmNodTJrNzVwMHRyNndqZTEzNW4zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="Banner animation of robotic and tech visuals" style="width:100%; max-width:1200px; height:auto;" />
 </div>
 
 <h1 align="center">Hey, I'm Archisman Pal 👋</h1>
@@ -142,7 +142,7 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dealer-09&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=MultiLanguage,Repositories,PullRequests,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dealer-09&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=MultiLanguage,Repositories,PullRequest,Commits" />
 </p>
 
 ---
