@@ -22,7 +22,7 @@
   <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
   <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
 </ul>
-
+<br>
 ---
 
 ## 🚀 Highlight Reels
@@ -36,7 +36,7 @@
   <li>🌐 <strong>Built 15+ projects</strong> blending hardware, software, and AI</li>
 </ul>
 <br>
-
+<br>
 ---
 
 ## 🧠 Notable Builds
