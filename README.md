@@ -142,7 +142,7 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dealer-09&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=MultiLanguage,Repositories,PullRequest,Commits,Issue" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dealer-09&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=MultiLanguage,Repositories,PullRequest,Commits" />
 </p>
 
 ---
