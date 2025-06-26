@@ -23,6 +23,7 @@
   <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
 </ul>
 <br>
+
 ---
 
 ## 🚀 Highlight Reels
@@ -35,7 +36,6 @@
   <li>🧠 <strong>ChainTorque Ideathon Presenter</strong> — Apertre 2.0</li>
   <li>🌐 <strong>Built 15+ projects</strong> blending hardware, software, and AI</li>
 </ul>
-<br>
 <br>
 ---
 
