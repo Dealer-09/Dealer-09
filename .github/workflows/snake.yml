@@ -1,15 +1,20 @@
-name: Generate GitHub Snake
+name: Generate GitHub Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every night
+    - cron: "0 0 * * *"  # Runs every night
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: Dealer-09
           outputs: |
