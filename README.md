@@ -118,7 +118,7 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff&rand=20250825" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff&rand=20250829" alt="Top Languages" />
 </p>
 
 ---
