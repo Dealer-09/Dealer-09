@@ -114,7 +114,10 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dealer-09&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Dealer-09&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
