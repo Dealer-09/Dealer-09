@@ -114,11 +114,11 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dealer-09&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dealer-09&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff&rand=20250829" alt="Top Languages" />
+  <img src="https://github-readme-stats-amber-one-97.vercel.app/api/top-langs/?username=Dealer-09&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff" alt="Top Languages" />
 </p>
 
 ---
