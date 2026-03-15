@@ -44,9 +44,15 @@
 <details>
 <summary>Click to Expand</summary>
 
-### ⚙️ RC CAR_v1  
+### ⚙️ ChainTorque
 🔗 [GitHub](https://github.com/Dealer-09/Chain-Torque)  
-ESP-powered sumo bot with modular weights, IR sensors, LiPo drive, and PID logic.
+Cloud Powered CAD Ecosystem *(Make and sell 3D assets with Help of AI Copilot)*
+
+---
+
+### ⚙️ RC CAR_v1  
+🔗 [GitHub](https://github.com/Dealer-09/Robotics/tree/main/RC%20CAR_v1)  
+Wirless ESP-powered sumo bot with LiPo drive, and PID logic.
 
 ---
 
