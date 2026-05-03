@@ -16,11 +16,11 @@
 <!-- Image floats right -->
 <img align="right" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation showing automation">
 <ul>
-  <li>🔩 <strong>RC bots & embedded systems</strong> — ESP32, ESCs, PID loops</li>
+  <li>🔩 <strong>RC bots & IOT systemms</strong> — ESP32, ESCs, PID loops</li>
   <li>🌐 <strong>Web platforms</strong> — React, Next.js, Node.js, Firebase, MongoDB</li>
-  <li>🧠 <strong>AI/ML & chatbots</strong> — TensorFlow.js, Gemini API</li>
+  <li>🧠 <strong>Robotics & AI/ML Projects</strong> — ROS, OpenCV,Pytorch </li>
   <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
-  <li>🌐 <strong>Web3 nerd</strong> — Solidity, IPFS, NFT marketplaces</li>
+  <li>🌐 <strong>Web3</strong> — Solidity, IPFS, NFT marketplaces</li>
 </ul>
 <br>
 
@@ -33,8 +33,7 @@
 <ul>
   <li>🥇 <strong>CodeFlow 2K25 Hackathon Winner</strong></li>
   <li>🤖 <strong>2nd Place – Robo Soccer (TechFiesta 2025)</strong></li>
-  <li>🧠 <strong>ChainTorque Ideathon Presenter</strong> — Apertre 2.0</li>
-  <li>🌐 <strong>Built 15+ projects</strong> blending hardware, software, and AI</li>
+  <li>🌐 <strong>Built 30+ projects</strong> blending hardware, software, and AI</li>
 </ul>
 <br>
 ---
@@ -50,9 +49,15 @@ Cloud Powered CAD Ecosystem *(Make and sell 3D assets with Help of AI Copilot)*
 
 ---
 
-### ⚙️ RC CAR_v1  
-🔗 [GitHub](https://github.com/Dealer-09/Robotics/tree/main/RC%20CAR_v1)  
-Wirless ESP-powered sumo bot with LiPo drive, and PID logic.
+### 🌲 GrowSafe
+🔗 [GitHub](https://github.com/Dealer-09/GrowSafe-by-Nanites)  
+AI-Powered IOT Smart Greenhouse Control System
+
+---
+
+### 🛡️ RepoShield-CLI
+🔗 [GitHub](https://github.com/Dealer-09/RepoShield-CLI)  
+Zero-Trust Git Protection CLI Tool 
 
 ---
 
@@ -64,7 +69,7 @@ AI crop advisor with **image disease detection (TensorFlow.js)** and **multiling
 
 ### 💥 Código / CodeBattle  
 🔗 [GitHub](https://github.com/Dealer-09/Codigo)  
-Live 1v1 code duel platform — *Socket.IO, Redis leaderboard, AI hints*.
+Competetive Programming Platform with live battle — *Socket.IO, Redis leaderboard, AI hints*.
 
 ---
 
@@ -76,7 +81,13 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 
 ### 🧮 Spur Gear Generator  
 🔗 [GitHub](https://github.com/Dealer-09/Spur-Gear-Generator)  
-**FreeCAD + PySide2 GUI** to dynamically create involute spur gears with real-time 3D updates.
+**FreeCAD + PySide2 GUI Tool** to dynamically create involute spur gears.
+
+---
+
+### ⚙️ RC CAR_v1  
+🔗 [GitHub](https://github.com/Dealer-09/Robotics)  
+Wirless ESP-powered sumo bot with LiPo drive, and PID logic.
 
 </details>
 
