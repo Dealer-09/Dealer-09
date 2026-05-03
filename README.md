@@ -36,7 +36,7 @@
   <li>🌐 <strong>Built 30+ projects</strong> blending hardware, software, and AI</li>
 </ul>
 <br>
----
+
 
 ## 🧠 Notable Builds
 
