@@ -16,11 +16,12 @@
 <!-- Image floats right -->
 <img align="right" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" width="250" alt="Robot arm animation showing automation">
 <ul>
-  <li>🔩 <strong>RC bots & IOT systemms</strong> — ESP32, ESCs, PID loops</li>
+  <li>🔩 <strong>RC bots & IoT systems</strong> — ESP32, ESCs, PID loops</li>
   <li>🌐 <strong>Web platforms</strong> — React, Next.js, Node.js, Firebase, MongoDB</li>
-  <li>🧠 <strong>Robotics & AI/ML Projects</strong> — ROS, OpenCV,Pytorch </li>
+  <li>🧠 <strong>Robotics & AI/ML Projects</strong> — ROS, OpenCV, PyTorch</li>
   <li>🧰 <strong>Mechanical/CAD design</strong> — FreeCAD + PySide2, SolidWorks</li>
   <li>🌐 <strong>Web3</strong> — Solidity, IPFS, NFT marketplaces</li>
+  <li>🔐 <strong>Cybersecurity & offensive tooling</strong> — CTF, honeypots, deception systems, CLI security scanners</li>
 </ul>
 <br>
 
@@ -32,8 +33,8 @@
 <br>
 <ul>
   <li>🥇 <strong>CodeFlow 2K25 Hackathon Winner</strong></li>
-  <li>🤖 <strong>2nd Place – Robo Soccer (TechFiesta 2025)</strong></li>
-  <li>🌐 <strong>Built 30+ projects</strong> blending hardware, software, and AI</li>
+  <li>🤖 <strong>2nd Place – RoboStriker (TechFiesta 2025)</strong></li>
+  <li>🌐 <strong>Built 20+ projects</strong> blending hardware, software, and AI</li>
 </ul>
 <br>
 
@@ -49,9 +50,21 @@ Cloud Powered CAD Ecosystem *(Make and sell 3D assets with Help of AI Copilot)*
 
 ---
 
+### 🤖 Niro
+🔗 [GitHub](https://github.com/Dealer-09/Niro)  
+AI desktop agent built with **Tauri v2 + Rust backend** and Svelte 5 UI — browser automation, computer use, scheduled email, multi-model AI (Groq + Gemini).
+
+---
+
+### 🕸️ ShadowMesh
+🔗 [GitHub](https://github.com/Dealer-09/ShadowMesh-AI)  
+AI-powered adaptive cyber deception platform — **real-time topology mutation, LLM attacker profiling, MITRE ATT&CK mapping**, 10 Docker honeypots.
+
+---
+
 ### 🌲 GrowSafe
 🔗 [GitHub](https://github.com/Dealer-09/GrowSafe-by-Nanites)  
-AI-Powered IOT Smart Greenhouse Control System
+AI-Powered IoT Smart Greenhouse Control System
 
 ---
 
@@ -69,13 +82,13 @@ AI crop advisor with **image disease detection (TensorFlow.js)** and **multiling
 
 ### 💥 Código / CodeBattle  
 🔗 [GitHub](https://github.com/Dealer-09/Codigo)  
-Competetive Programming Platform with live battle — *Socket.IO, Redis leaderboard, AI hints*.
+Competitive Programming Platform with live battle — *Socket.IO, Gemini AI hints, MongoDB, Clerk auth*.
 
 ---
 
 ### 🔐 AIMS 2.0  
 🔗 [GitHub](https://github.com/Dealer-09/aims-2-0)  
-RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, GridFS**.
+RBAC academic platform with **PDF access flow, Clerk auth, hCaptcha, Firestore, GridFS**.
 
 ---
 
@@ -87,7 +100,7 @@ RBAC academic platform with **PDF access flow, JWT auth, hCaptcha, Firestore, Gr
 
 ### ⚙️ RC CAR_v1  
 🔗 [GitHub](https://github.com/Dealer-09/Robotics)  
-Wirless ESP-powered sumo bot with LiPo drive, and PID logic.
+Wireless ESP-powered sumo bot with LiPo drive, and PID logic.
 
 </details>
 
@@ -97,9 +110,12 @@ Wirless ESP-powered sumo bot with LiPo drive, and PID logic.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -113,7 +129,7 @@ Wirless ESP-powered sumo bot with LiPo drive, and PID logic.
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Let's Connect
 
 <p align="center">
   <a href="mailto:archismankumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
